@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 third text 
 aijing add this
-=======
-third text
 aijing add this again  do you know
->>>>>>> cc7baded4862dc34935dac3b1fc3eb1794b0c236
+
